@@ -1,0 +1,18 @@
+# This is a Taskfile. It will help you do the things.
+# https://taskfile.dev/#/installation
+
+version: '2'
+
+tasks:
+  serve:
+    desc: Serve the page
+    cmds:
+      - hugo serve --buildDrafts
+
+  publish:
+    desc: Publish the HTML.
+    env:
+      # This is specific to the hosting server and needs to be changed
+      DIRECTORY: /nest/srv/trans-hub
+    cmds:
+      - hugo --buildFuture --destination {{.DIRECTORY}}
