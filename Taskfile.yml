@@ -11,7 +11,7 @@ tasks:
 
   publish:
     desc: Publish the HTML.
-    env:
+    vars:
       # This is specific to the hosting server and needs to be changed
       DIRECTORY: /nest/srv/trans-hub
     cmds:
