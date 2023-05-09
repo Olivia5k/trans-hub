@@ -1,9 +1,9 @@
 ---
 categories: ["Examples"]
-tags: ["test", "sample", "docs"]
-title: "Example Page"
-linkTitle: "Example Page"
-date: 2017-01-05
+tags: ["growboobs", "sample", "docs"]
+title: "Subcutaneous injections"
+linkTitle: "Subcutaneous injections"
+date: 2023-01-05
 description: >
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
 ---
