@@ -6,11 +6,11 @@ linkTitle: "Sex Hormones: how do they work?"
 weight: 2
 date: 2023-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  About estrogen, androgens and progestogens: how hormones work, applied to sex hormones.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+The hormones that intersts us for trans HRT are sex hormones. Those are an informal subgroup of steroid hormones. We'll discuss here how hormones have effects on our bodies, and learn about the importance of "receptors".
 {{% /pageinfo %}}
 
 
@@ -23,7 +23,3 @@ If the binding happens (the key gets into the hole), then the cell is given the 
 **In short, we call estrogens all hormones that fit in the estrogen receptors, androgens all those that fit in the androgens receptors, and the same goes for progestogens. And this means that there is not just one estrogen, androgen, and progestogen. Let’s have a look now at these different kinds of each sex hormone, and why it matters to know about it.**
 
 
-
-```
-This is the final element on the page and there should be no margin below this.
-```

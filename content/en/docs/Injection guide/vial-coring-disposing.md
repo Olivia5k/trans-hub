@@ -1,8 +1,9 @@
 ---
 categories: ["Examples"]
 tags: ["growboobs", "sample", "docs"]
-title: "Blood tests, other screenings and neovaginal health"
-linkTitle: "Blood test, other screenings and neovaginal health"
+title: "Vial coring and disposal of sharps"
+linkTitle: "Vial coring and disposal of sharps"
+weight: 3
 date: 2023-01-05
 description: >
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.

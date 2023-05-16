@@ -29,7 +29,7 @@ This is especially true for the threshold of “overdosing”, which can vary a 
 |Method|Description|Risks|Access in Sweden|
 |------|-----------|-----|----------------|
 |✅ Transdermal (Gels and patches)|Good method, but results vary between each individual|Very low|Yes, but patches are often out of stocks.|Gel has also shown supply disruption recently.|
-|✅ 😐 Oral (Pill)|Okay for a start, but to be avoided in the long term.|Not very efficient, especially when swallowed.|Medium (increased if swallowed)|Yes|
+|✅ 😐 Oral (Pill)|Okay for a start, but to be avoided in the long term. Overall not very efficient, especially when swallowed|Medium (increased if swallowed)|Yes|
 |✅ Injections|Very efficient, on long term as well|Low (if performed safely)|Not available|
 |😐 Nasal spray|Good alternative to gel and patch|Very low|Not available|
 |😐 Pellet|Convenient but little data available to assess fully|Low, but risks of multiple scars|Complicated|

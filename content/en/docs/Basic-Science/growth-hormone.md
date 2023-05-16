@@ -6,11 +6,11 @@ linkTitle: "Growth hormones"
 weight: 5
 date: 2023-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  About growth hormones, why it can be important to think about it, and why you should not just "take some".
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+Growth hormone is not a sex hormone. It does, however, play a role in feminization/masculinization during HRT. This page is aiming at informing you about it, and proposing ways to naturally stimulates its production. **But it is also a strong warning not to try and take exogenous grownth hormones.**
 {{% /pageinfo %}}
 
 
@@ -19,7 +19,7 @@ In the frame of medical transition, you could compare the role of growth hormone
 
 The age-related factor explains why starting hormone therapy at younger age (before or in the early twenties) usually leads to faster and “better” development. 
 
-**This information, however, should not be read as an encouragement to find growth hormones online and start taking them. This is a very bad idea, for so many reasons. Not only does it constitute a serious health hazard, but if you’re taking it to enhance feminization, you might just reach the opposite effect, as exogenous growth hormones can cause a “thickening” of the face (nose, eyebrow, chin…)**
+{{< alert color="warning" title="Warning" >}}**This information, however, should not be read as an encouragement to find growth hormones online and start taking them. This is a very bad idea, for so many reasons. Not only does it constitute a serious health hazard, but if you’re taking it to enhance feminization, you might just reach the opposite effect, as exogenous growth hormones can cause a “thickening” of the face (nose, eyebrow, chin…)** {{< /alert >}}	
 
 What you can do, however, is to aim at adopting a lifestyle that will naturally stimulate the production of growth hormones.
 Such lifestyle includes:

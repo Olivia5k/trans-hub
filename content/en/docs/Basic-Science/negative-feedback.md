@@ -6,11 +6,11 @@ linkTitle: "The self-regulation mechanism, and how to use it in our benefits"
 weight: 4
 date: 2023-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+   About the negative feedback mechanism, the centerpiece of HRT
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+The negative feedback mechanism is a normal and "natural" biological function of the endocrine system that regulates the production of sex hormones, so that we don't end up with too much or too little. Knowing about this mechanism is key to understanding many methods of HRT, and the way some medication work.
 {{% /pageinfo %}}
 
 

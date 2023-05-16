@@ -3,7 +3,7 @@ categories: ["Examples", "Placeholders"]
 tags: ["growboobs","docs"] 
 title: "Feminizing HRT"
 linkTitle: "Feminizing HRT"
-weight: 2
+weight: 3
 description: >
   Hormones and hormonal treatments for transfeminine people
 ---

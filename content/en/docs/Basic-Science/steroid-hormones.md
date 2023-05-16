@@ -6,11 +6,11 @@ linkTitle: "What are steroid hormones?"
 weight: 1
 date: 2023-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  What are hormones, and what are steroid hormones?
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+Sex hormones such as estrogens, androgens and progestogens, are all "steroid hormones". This page describes the role of hormones, and the subgroup of steroid hormones.
 {{% /pageinfo %}}
 
 
@@ -23,10 +23,3 @@ So what are steroids, and what do they have to do with “steroids” used by so
 But, yes, if you get estrogen treatment to grow boobs, then you can say that technically, you’re taking steroids. Not anabolic, but steroid still.
 
 But let’s keep it simple and call them hormones, because they act just like hormones.
-
-
-
-
-```
-This is the final element on the page and there should be no margin below this.
-```

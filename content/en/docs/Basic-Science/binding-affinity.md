@@ -6,11 +6,11 @@ linkTitle: "The different estrogens, androgens and progestogens, and their bindi
 weight: 3
 date: 2023-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  More detail about the three groups of sex hormones, and why knowing about them is important
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+When we speak of estrogens, we don't refer to only one hormone. Estrogens, as well of androgens and progestegens are three groups, each covering similar yet different hormones. Knowing about those differences is important in many ways. 
 {{% /pageinfo %}}
 
 
