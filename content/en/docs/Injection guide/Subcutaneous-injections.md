@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Injections","DIY"] 
 title: "Subcutaneous injections"
 linkTitle: "Subcutaneous injections"
 weight: 1

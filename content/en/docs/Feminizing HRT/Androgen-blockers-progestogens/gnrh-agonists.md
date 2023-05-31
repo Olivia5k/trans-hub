@@ -1,4 +1,5 @@
 ---
+tags: ["Feminizing HRT", "Blockers", "Injections"]
 title: "GnRH agonists and antagonists (“Puberty blockers”)"
 linkTitle: "GnRH agonists and antagonists (“Puberty blockers”)"
 date: 2017-01-05

@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-linkTitle: "Overview"
+linkTitle: " 🏳️‍⚧️ Overview 🏳️‍⚧️"
 weight: 1
 description: >
   Who are we, what do we believe, and what do we do?

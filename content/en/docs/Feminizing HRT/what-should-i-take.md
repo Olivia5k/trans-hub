@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Feminizing HRT", "Monotherapy"]
 title: "That was a lot... So, what should I take?"
 linkTitle: "That was a lot... So, what should I take?"
 weight: 8

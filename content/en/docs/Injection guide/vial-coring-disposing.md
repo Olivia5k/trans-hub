@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Injections", "DIY"] 
 title: "Vial coring and disposal of sharps"
 linkTitle: "Vial coring and disposal of sharps"
 weight: 3

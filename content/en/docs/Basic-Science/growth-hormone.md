@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Hormones", "Basics"]
 title: "Growth hormones"
 linkTitle: "Growth hormones"
 weight: 5

@@ -1,8 +1,6 @@
 ---
-categories: ["Examples", "Placeholders"]
-tags: ["growboobs","docs"] 
 title: "Basic Science"
-linkTitle: "Basic Science"
+linkTitle: " 🔬 Basic Science"
 weight: 2
 description: >
   The basic knowledge for reappropriating trans medicine

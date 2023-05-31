@@ -1,14 +1,14 @@
 ---
+tags: ["Feminizing HRT", "Estrogens"]
 title: "Pellets"
 linkTitle: "Pellets"
 date: 2017-01-05
 weight: 5
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+😐 Pellets are a very convenient option, but little data is available to assess fully, and is very seldom proposed by practitioners. Most estradiol pellets are pescribed to AFAB people as a contraceptive.
 {{% /pageinfo %}}
 
 This is a rare solution, mainly used in Australia. It consists of a pellet implanted under the skin, delivering estrogens steadily and regularly. This route is also used as a contraceptive method, with a different estrogen.

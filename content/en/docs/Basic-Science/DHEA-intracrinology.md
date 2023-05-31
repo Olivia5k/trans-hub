@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Hormones", "Basics", "Androgens", "Surgeries"]
 title: "DHEA and intracrinology"
 linkTitle: "DHEA and intracrinology"
 weight: 6
@@ -13,14 +12,14 @@ description: >
 DHEA is the hormone found in largest quantity in the human body. It has a very weak masculinizing effet in itself, but its action is mostly due to its conversion into testosterone and DHT in and by target cells. Intracrinology is the subfield of endocrinology who looks at this phenomenon, and it can matter to us (mostly transfem people) for a number of reason.
 {{% /pageinfo %}}
 
-As we have explained, most of our sex hormones are produced in our gonads: ovaries and testes. That means that in case of surgical removal of the gonads (orchiectomy/vaginplasty, ovariectomy...), the vast majority (95%) of our sex hormones circulating in the body will be gone. 
+As we have explained, most of our sex hormones are produced in our gonads: ovaries and testes. That means that in case of surgical removal of the gonads (orchiectomy/vaginoplasty, ovariectomy...), the vast majority (95%) of our sex hormones circulating in the body will be gone. 
 This also means that after such surgery, transfem people on HRT could stop taking anti-androgens. 
 
-**However, does suppressing our gonad-produced sex hormones means the end of all masculinizing/feminizing effects of endogenous hormones?**
+**However, does suppressing our gonad-produced sex hormones really means the end of all masculinizing/feminizing effects of endogenous hormones?**
 
 **Not exaclty. And this is where intracrinology and DHEA enters into the game.**
 
-**Intracrinology** is a subfield of endocrinology developped in the 1980s. In the framwork of sex hormones, it is mostly based on the actifivty of **DHEA**. DHEA is a hormone massively produced in small gland situated right above the kidneys, called **adrenal gland**. They produced a bunch of other stuff (including small amount of testosterone and estrogens directly). 
+**Intracrinology** is a subfield of endocrinology developped in the 1980s. In the framwork of sex hormones, it is mostly based on the actifivty of **DHEA**. DHEA is a hormone massively produced in small glands situated right above the kidneys, called **adrenal glands**. They produced a bunch of other stuff (including small amount of testosterone and estrogens directly). 
 
 Intracrinlogy figured out that DHEA (that makes for the most present hormone in the body) travels to target cells (such as skin, hair follicules, prostate cells...) and is converted there, **on the spot**, by those very cells, into testosterone and DHT. That means that there is a peripheral production of androgens: not in the gonads, but direclty in the target cells. And what matters is that these androgens will actually **direclty activate the androgen receptors in the target cells that has just produced them.** After that, they will be metabolized and realeased into the bloodstream **as something else**. Research has shown that surgical or chemical castration (i.e. by GnRHa) leads to a approxiamtely 50% drop of androgens in the target cells of the prostate. That is far from the 95% reduction observed in the bloodstream androgen levels. And this is likely to be true of skin cells, including hair follicule. 
 

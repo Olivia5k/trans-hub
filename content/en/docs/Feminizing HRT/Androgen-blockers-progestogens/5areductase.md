@@ -1,4 +1,5 @@
 ---
+tags: ["Feminizing HRT", "Blockers"]
 title: "Inhibitors of 5a-reductase: Finasteride and Dutasteride"
 linkTitle: "Inhibitors of 5a-reductase: Finasteride and Dutasteride"
 date: 2017-01-05
@@ -8,7 +9,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-Finasteride and dutasteride work by inhibiting the transformation of testosterone into its more potent form DHT.
+❌ Finasteride and dutasteride work by inhibiting the transformation of testosterone into its more potent form DHT.
 **They will only achieve one thing: put your health at risk, without any benefits in terms of feminization.**
 They are strongly unadvised and should be avoided at all cost.
 {{% /pageinfo %}}
@@ -28,7 +29,7 @@ The only reason to consider finasteride/dutasteride is if you managed to signifi
 ### Finasteride ###
 
 
-{{< alert color="warning" title="Warning" >}}⛔ Unadvised : Risks of depression and neurological problems.{{< /alert >}}	
+{{< alert color="warning" title="Warning" >}}❌ Unadvised : Risks of depression and neurological problems.{{< /alert >}}	
 
 Conceived for cis-men preoccupations: to reduce the levels of DHT (and hair loss associated) while keeping high levels of testosterone.
 
@@ -42,7 +43,7 @@ Finasteride is at the origin of the healthcare scandal called “Post-Finasterid
 
 ### Dutasteride ###
 
-{{< alert color="warning" title="Warning" >}}⛔ Unadvised : Risks of depression and neurological problems.{{< /alert >}}	
+{{< alert color="warning" title="Warning" >}}❌ Unadvised : Risks of depression and neurological problems.{{< /alert >}}	
 
 
 All what we said of finasteride is true of Dutasteride. The only difference is that dutasteride is able to prevent even more efficiently the conversion of testosterone into DHT.

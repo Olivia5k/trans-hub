@@ -1,14 +1,14 @@
 ---
+tags: ["Feminizing HRT", "Estrogens"]
 title: "Oral"
 linkTitle: "Oral"
 date: 2017-01-05
 weight: 3
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+✅ / 😐 Oral route (Pill) is generally okay for a start, but should avoided in the long term. Swallowing the pills is overall not very efficient, and leads to excessive levels of estrone, and low estradiol. Sublingual method can correct this, but can be inconvenient.
 {{% /pageinfo %}}
 
 |Products|Doses|Blood values to monitor|

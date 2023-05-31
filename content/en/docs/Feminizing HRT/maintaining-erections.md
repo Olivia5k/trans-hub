@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Feminizing HRT", "Androgens"]
 title: "Maintaining erections and healthy penile tissue: topical testosterone"
 linkTitle: "Maintaining erections and healthy penile tissue: topical testosterone"
 weight: 7

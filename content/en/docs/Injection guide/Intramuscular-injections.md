@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Injections","DIY"] 
 title: "Intramuscular injections"
 linkTitle: "Intramuscular injections"
 weight: 2

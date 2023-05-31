@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Feminizing HRT", "Monotherapy", "Blockers"]
 title: "The different methods"
 linkTitle: "The different methods"
 weight: 1
@@ -9,12 +8,7 @@ description: >
   This is an overview of the differents HRT methods for transfeminie people
 ---
 
-{{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
-{{% /pageinfo %}}
-
-
-There are different "methods" in feminizing HRT
+There are different "methods" in feminizing HRT, or medication regimes, whith each their pros and cons. Here are the main ones.
 
 ## Monotherapy
 
@@ -54,6 +48,7 @@ Cyproterone acetate (sold under the name Androcur in many countries) is one of t
 **Pros:**
 - You can independently adjust your levels of T and E. 
 - It is the only way to block testosterone if monotherapy doesn’t work for you, or if you can’t take high dosage of estrogens.
+
 **Cons:**
 - You have to make sure that your are not underdosed in estrogens, since being deficient in both sex hormones at the same time can be dangerous (physically and mentally - mainly risks of osteoporosis and depression) **NOTE THAT ANDROGEN BLOCKER CAN NEVER BE TAKEN ALONE.**
 - Lots of androgen blockers are known to have annoying if not dangerous side effects. It is the case of Androcur, widely used in Europe.
@@ -61,15 +56,13 @@ Cyproterone acetate (sold under the name Androcur in many countries) is one of t
 
 ## Dr. Will Power’s method
 
-This method refers to a method developed by american practitioner Will Power, who's clinic has specialized in trans healthcare. If his method has become very popular among trans women, especially in the US, we should also warn here that it is still today experimental, and Dr Power has not yet published the results. 
-His method is actually very close to monotherapy, sometimes complemented by bicalutamide or lupron as an androgen blocker, and progesterone after Tanner stage 3.
+{{< alert color="warning" >}}
+This method refers to a method developed by american practitioner Will Power, whose clinic has specialized in trans healthcare. If his method has become very popular among trans women, especially in the US, we should also warn here that **it is still today experimental**, and Dr Power has not yet published the results. 
+His method is actually very close to monotherapy, sometimes complemented by bicalutamide or lupron as an androgen blocker, and progesterone after Tanner stage 3.{{< /alert >}}
 
-The main difference is that Power’s research and experience seem to show that putting estrone (E1) into the equation is important. His idea is to start with higher estrone levels for around 6 months by using oral estradiol pills. As we’ve said before, if simply swallowed, most of the estradiol of these pills is converted to estrone. Power claims that this is closer to the hormonal balance evolution in ciswomen puberty, and that initial exposure to estrone helps increase the amount of estrogen receptors. The idea is to prepare the ground for estradiol, which comes after the first 6 months, by maximizing the reception capacities. Introduction of estradiol (E2) after the 6 months of dominantly estrone therapy is realized at high, monotherapy-like dosage (usually injections, sometimes gel). As we said, blockers are sometimes used to complement, as well as progesterone after reaching Tanner stage 3 (around 2 years of HRT).
+The main difference is that Power’s research and experience seem to show that **putting estrone (E1) into the equation** is important. His idea is to start with higher estrone levels for around 6 months by using oral estradiol pills. As we’ve said before, if simply swallowed, most of the estradiol of these pills is converted to estrone. Power claims that this is closer to the hormonal balance evolution in ciswomen puberty, and that **initial exposure to estrone helps increase the amount of estrogen receptors**. The idea is to prepare the ground for estradiol, which comes after the first 6 months, by maximizing the reception capacities. Introduction of estradiol (E2) after the 6 months of dominantly estrone therapy is realized at high, monotherapy-like dosage (usually injections, sometimes gel). As we said, blockers are sometimes used to complement, as well as progesterone after reaching Tanner stage 3 (around 2 years of HRT).
 
-This initial estrone treatment is what differentiates his method, and also what makes it controversial among healthcare practitioners and the trans community. Indeed, estrone exposure is associated with higher and more frequent risks than estradiol, and Power’s claims of its interest for optimizing the reception of estradiol is still to be proven.
+**This initial estrone treatment is what differentiates his method, and also what makes it controversial among healthcare practitioners and the trans community**. Indeed, estrone exposure is associated with higher and more frequent risks than estradiol, and Power’s claims of its interest for optimizing the reception of estradiol is still to be proven.
 Scientifically speaking, Dr Will Power’s method is still considered theory. 
 
 
-```
-This is the final element on the page and there should be no margin below this.
-```

@@ -1,8 +1,7 @@
 ---
-categories: ["Examples", "Placeholders"]
-tags: ["lessboobs","docs"] 
+tags: ["Injections","DIY"] 
 title: "Injection guide"
-linkTitle: "Injection guide"
+linkTitle: "💉 Injection guide"
 weight: 5
 description: >
   What does your user need to know to try your project?

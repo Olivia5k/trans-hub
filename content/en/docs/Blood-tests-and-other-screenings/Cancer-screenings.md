@@ -6,12 +6,9 @@ linkTitle: "Cancer screenings and navigating healthcare"
 weight: 2
 date: 2023-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  Some cancer are hormono-dependant. What should I be vigilant about? What does HRT change in terms of risk factors?
 ---
 
-{{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
-{{% /pageinfo %}}
 
 
 ### Cancer screenings ###

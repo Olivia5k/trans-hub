@@ -1,4 +1,5 @@
 ---
+tags: ["Feminizing HRT", "Blockers", "Progestogens"]
 title: "Synthetic progestogens (Androcur...)"
 linkTitle: "Synthetic progestogens (Androcur...)"
 date: 2017-01-05

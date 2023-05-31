@@ -1,14 +1,14 @@
 ---
+tags: ["Feminizing HRT", "Estrogens"]
 title: "Transdermal gel and patches"
 linkTitle: "Transdermal gel and patches"
 date: 2017-01-05
 weight: 2
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+✅ Transdermal administration (gels and patches) is a safe route, and easily accessible. The main downside is that it can be difficult to reach higher levels of estrogens necessary for monotherapy, and that the levels can vary a lot between individuals.
 {{% /pageinfo %}}
 
 Estradiol is a good candidate for transdermal administration, meaning that it is rather well absorbed through the skin. 
@@ -66,7 +66,7 @@ Some trans women using it report increased fragility of the penile skin, with sk
 
 It remains, however, a possible method to use in order to achieve higher levels of estradiol with limited gel supply.
 
-Sources:
+**Sources:**
 
 Clin Pharmacol. 2010; 2: 149–153 :
 « Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites. »

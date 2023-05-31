@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Feminizing HRT", "Progestogens"]
 title: "Progesterone"
 linkTitle: "Progesterone"
 weight: 5

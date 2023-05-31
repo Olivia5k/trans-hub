@@ -1,7 +1,7 @@
 
 ---
 title: "Estrogens"
-linkTitle: "Estrogens"
+linkTitle: "🧬 Estrogens"
 weight: 3
 date: 2017-01-05
 description: >
@@ -9,7 +9,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+This is a summary of the different estrogen medications used in feminizing HRT. Follow the links below for detailled information on each medication.
 {{% /pageinfo %}}
 
 
@@ -24,7 +24,7 @@ This is especially true for the threshold of “overdosing”, which can vary a 
 **Do not assume this is just your mood and do not normalize it. Adjusting your levels CAN make a difference.**
 
 
-**Summary of the different routes**
+## Summary of the different routes ##
 
 |Method|Description|Risks|Access in Sweden|
 |------|-----------|-----|----------------|

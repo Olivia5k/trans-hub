@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Feminizing HRT", "Basics", "Blood tests"]
 title: "SHBG: What is it, and why it can matter"
 linkTitle: "SHBG: What is it, and why it can matter"
 weight: 2

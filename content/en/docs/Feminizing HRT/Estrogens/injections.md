@@ -1,14 +1,15 @@
 ---
+tags: ["Feminizing HRT", "Estrogens", "Injections", "DIY"]
 title: "Injections"
 linkTitle: "Injections"
 date: 2017-01-05
 weight: 4
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+✅ Injections are a very efficient and safe route, on long term as well, leading to relatively stable and high levels of estradiol. It is safe as long as you perform the injection well, and make sure that the product you use if legit and uncontaminated. 
+The main problem is that their are not available in most european countries, and necessitates DIY competences.
 {{% /pageinfo %}}
 
 |Products|Doses|Blood values to monitor|
