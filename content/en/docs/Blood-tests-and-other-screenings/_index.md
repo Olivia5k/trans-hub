@@ -1,6 +1,4 @@
 ---
-categories: ["Examples", "Placeholders"]
-tags: ["lessboobs","docs"] 
 title: "Blood tests, other screenings and neovaginal health"
 linkTitle: "🩸 Blood tests and screenings"
 weight: 6

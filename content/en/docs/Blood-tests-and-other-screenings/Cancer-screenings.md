@@ -1,6 +1,4 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
 title: "Cancer screenings and navigating healthcare"
 linkTitle: "Cancer screenings and navigating healthcare"
 weight: 2

@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Surgeries"]
 title: "Neovaginal health"
 linkTitle: "Neovaginal health"
 weight: 3

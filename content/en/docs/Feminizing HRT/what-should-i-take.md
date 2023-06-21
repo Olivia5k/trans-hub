@@ -4,8 +4,7 @@ title: "That was a lot... So, what should I take?"
 linkTitle: "That was a lot... So, what should I take?"
 weight: 8
 date: 2023-01-05
-description: >
-  T...
+
 ---
 
 {{% pageinfo %}}

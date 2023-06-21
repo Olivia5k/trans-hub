@@ -1,6 +1,5 @@
 ---
-categories: ["Examples"]
-tags: ["growboobs", "sample", "docs"]
+tags: ["Blood tests"]
 title: "Blood tests"
 linkTitle: "Blood tests"
 weight: 2

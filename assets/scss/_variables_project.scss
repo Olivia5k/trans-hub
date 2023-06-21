@@ -1,6 +1,16 @@
-/*
+// Bootstrap options
 
-Add styles or override variables from the theme here.
+$enable-gradients: true !default;
+$enable-shadows: true !default;
 
-*/
+// Theme colors
 
+$primary: #f48fb1;
+$secondary: #81d4fa;
+$color-3: #b3e5fc;
+
+// UI element colors
+
+$border-color: #81d4fa;
+$link-color: #81d4fa;
+$td-sidebar-tree-root-color: $secondary

@@ -40,3 +40,5 @@ The **Gauge** is the measurement unit for the **diameter/thickness** of the need
 ### Standard U-100 insulin syringe ###
 
 The **Standard U-100 insulin syringe** can be used for small amounts, and can be particularly appreciated. It is suitable for subcutaneous injection as the needle is usually short. Short needle and high gauge (up to 30G) makes for nearly painless injection. **The needle is attached to the syringe,** which has pros and cons: the high gauge means it will take some time to draw the liquid from the vial, but it also means less hassle changing the needle, and less loss of product as **dead space is reduced**. Dead space is the space from which the liquid drawn for the vial accumulates but cannot be injected. If dead space retains a tiny amount of liquid, in the long term of many injections, you might end up losing a few injections. 
+
+![](https://cranstoun.org/wp-content/uploads/2022/02/Dead-Space_pic.png)
