@@ -73,7 +73,9 @@ Taking bicalutamide often comes with **warning of liver failure**. If this risk 
 
 A study on 4052 prostate cancer patients taking 150mg of bicalutamide daily showed that only 3.4% of the patients developed abnormal levels of liver enzymes. In comparison, we find the number rising to 10 or even 20% for people treated with Androcur (cyproterone acetate). Besides, in feminizing HRT, the common dosage is 50mg a day.
 
-As a safety measure, the best remains to **regularly monitor your liver enzyme levels**: ALAT, ASAT, GGT. You can see an increase of them in the first few months of the treatment, which usually resorbs after a while.{{< /alert >}}
+As a safety measure, the best remains to **regularly monitor your liver enzyme levels**: ALAT, ASAT, GGT. You can see an increase of them in the first few months of the treatment, which usually resorbs after a while.
+
+Besides, remain attentive to symptoms of fulminant hepatatis (fatigue, nausea, abdominal pain, jaundice, confusion...){{< /alert >}}
 
 {{< alert title="About the cardiovascular risks">}}
 If your practitioner is reluctant to prescribe bicalutamide for you, invoking cardiovascular risks, this is known to be a conclusion inferred from a different case. **Nothing shows that bicalutamide brings, by itself, cardiovascular risks**. Those risks are inferred from the cases of cis-men in treatment for prostate cancer. Those patients end up with **sex hormone deficiency**, since they do not complement with estradiol intake. It is sex hormone deficiency that bears increased risks of cardiovascular diseases; these risks do not concern transfem people compensating with estrogens.{{< /alert >}}

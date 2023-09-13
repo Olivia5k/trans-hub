@@ -37,4 +37,6 @@ A peak of testosterone will start around the 3rd day after the first injection. 
 
 
 They are all quite safe, with nearly no side effects, and great efficacy. Their main problem is that they are usually quite expensive, making them difficult to access if you don’t have health insurance, or just hard to get prescribed because practitioners will tend to favor cheaper alternatives. 
-Besides, they are in the form of injections, given every month or every 3 months.
+Besides, they mostly in the form of injections, given every month or every 3 months. 
+
+**A nasal spray exists** (Nafarelin, sold under the brand name Synarel) which can be a good alternative for people who prefer to avoid injections.

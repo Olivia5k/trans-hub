@@ -11,11 +11,11 @@ description: >
 
 ### Cancer screenings ###
 
-**We should recall the obvious here: a trans person who is not on HRT should be screened for the same affections as for people of their assigned gender. More specifically, transfeminine people not on HRT should be screened for prostate cancer after 55, and transmasculine people not on HRT (and without mammectomy) for breast cancer.**
+**We should recall the obvious here: a trans person who is not on HRT should be screened for the same affections as for people of their assigned gender at birth. More specifically, transfeminine people not on HRT should be screened for prostate cancer after 55, and transmasculine people not on HRT (and without mammectomy) for breast and cervix cancer.**
         
 #### Breast ####
 
-- Transfeminine people on HRT usually trades their risks of prostate cancer for risks of breast cancer. Getting screened for breast cancer hence becomes important for transfem people on hormones, and even more after 45. 
+- Transfeminine people on HRT usually trade their risks of prostate cancer for risks of breast cancer. Getting screened for breast cancer hence becomes important for transfem people on hormones, and even more after 45 and if you have family history of breast cancer. 
 - The lowered risks of breast cancer that masculinizing therapy comes with should not dispense transmasculine people who haven’t got mammectomy to also get screened.
 
 #### Prostate (before and after SRS) ####

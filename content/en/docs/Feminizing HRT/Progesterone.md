@@ -10,22 +10,24 @@ description: >
 ---
 
 {{% pageinfo %}}
-This article concerns only bioidentical progesterone. You can read more on progestogens in the anti-androgen section. We decided to create another section for bioidentical progesterone since it is mainly used as an addition to a treatment and not as an anti-androgen.
+This article concerns **only bioidentical progesterone**. You can read more on progestogens in the anti-androgen section. We decided to create another section for bioidentical progesterone since it is mainly used as an addition to a treatment and not as an anti-androgen.
 {{% /pageinfo %}}
 
 
 Progesterone has relatively few and minor effects on the body, compared to estrogens. Its effects and secondary effects are, besides, still debated among the trans community and medical practitioners and researchers; and the observed effects are sometimes contradictory.
-If you decide to start taking progesterone, try to be attentive to how it makes you feel, and stop if you feel negative effects as it will most likely affect you more negatively than positively.
+**If you decide to start taking progesterone, try to be attentive to how it makes you feel, and stop if you feel negative effects as it will most likely affect you more negatively than positively.**
 
-Considering that the scientific community seems undecided on the fact that it helps with breast growth (and shaping), and that it could also hinders breast developpement if taken too soon, our recommendation remains to avoid this risk by waiting to reach stage 3 of Tanner scale before taking progesterone. Start gradually with 100 mg, and consider increasing to 200 mg if you notice positive changes, and/or it helps with your mood.
+Considering that the **scientific community seems undecided** on the fact that it helps with breast growth (and shaping), and that it could also hinders breast developpement if taken too soon, our recommendation remains to avoid this risk by waiting to reach stage 3 of Tanner scale before taking progesterone. 
+
+Start gradually with 100 mg, and consider increasing to 200 mg if you notice positive changes, and/or it helps with your mood.
 
 As opposed to synthetic progestogens, bioidentical progesterone has a very short half-life (the measure to count how long the molecule is active in the body before metabolization/evacuation). In barely a few hours, swallowed progesterone is entirely eliminated by the body.
 
 Besides, when taken orally, progesterone is nearly completely metabolized into allopregnanolone (and to a lesser extent other molecules). This can be responsible for psychoactive effects, similar to low doses of alcohol: somnolence and drowsiness, slight euphoria and relaxation, vague sensation of “being high”. If this can be a disturbance by some, others actually enjoy those effects, especially in cases of insomnia, as taking the progesterone capsule orally right before going to bed might help.
 	
-If you seek the actual effects of progesterone (possible help with breast development and shaping…), the rectal way is the best. The medication sold under the name of Utrogestan (the one you’ll most likely be prescribed in Sweden) presents itself as a soft capsule that can be inserted in the vagina. In a lack of vagina, the rectal tissue will work similarly. If you got a vaginoplasty, keep using the rectal way as the neovaginal tissue (penile skin in most cases) won’t be as absorbent as the rectal mucous tissues. In practice, simply insert the capsule in the rectum before going to bed. Diffusion will last longer, and the progesterone won’t be eliminated as quickly and metabolized into allopregnanolone.
+**If you seek the actual (possible) effects of progesterone (possible help with breast development and shaping…), the rectal way is the best.** Several progesterone medications (Utrogestan, Luteus) presents themselves as a soft capsule or pill that can be inserted in the vagina. In a lack of vagina, the rectal tissue will work similarly. If you got a vaginoplasty, keep using the rectal way as the neovaginal tissue (penile skin in most cases) won’t be as absorbent as the rectal mucous tissues. In practice, simply insert the capsule in the rectum before going to bed. Diffusion will last longer, and the progesterone won’t be eliminated as quickly and metabolized into allopregnanolone.
 	
-Some practitioners prescribe topical progesterone as a gel, to apply directly on the breast. If topical application of estrogens on this area is very unadvised (might only increase the risks of breast cancer), the same technique with progesterone does not seem to cause this problem, and instead enhances breast development. Keep in mind that the technique remains experimental, and mostly practiced in the US by Dr Will Powers, whose method (with its limits) are described here. Besides, topical progesterone gel is not directly available in Sweden, and access to it is conditioned by a practitioner and a pharmacy willing to prescribe and produce a compounded drug for you. However, some DIY suppliers propose progesterone gel.
+Some practitioners prescribe topical progesterone as a gel, to apply directly on the breast. If topical application of estrogens on this area is very unadvised (it might only increase the risks of breast cancer), the same technique with progesterone does not seem to cause this problem, and instead enhances breast development. Keep in mind that the technique remains experimental, and mostly practiced in the US by Dr Will Powers, whose method (with its limits) are described here. Besides, topical progesterone gel is not directly available in Sweden, and access to it is conditioned by a practitioner and a pharmacy willing to prescribe and produce a compounded drug for you. However, some DIY suppliers propose progesterone gel.
 
 These are the main possible effects of progestogens:
 - Those effects includes:

@@ -31,5 +31,4 @@ Such lifestyle includes:
 
 
 ```
-This is the final element on the page and there should be no margin below this.
 ```

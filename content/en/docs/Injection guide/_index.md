@@ -4,13 +4,15 @@ title: "Injection guide"
 linkTitle: "💉 Injection guide"
 weight: 5
 description: >
-  What does your user need to know to try your project?
 ---
 
 {{% pageinfo %}}
 This section concerns both transmasculine and transfeminine people, who use injections for their HRT. 
 Injection is the most common route of administration for testosterone, whereas injections of estrogens  - since unavailable through prescription in many European countries including Sweden - is mostly used in the frame of DIY HRT.
-Testosterone is administered by Intramuscular injection; estrogens are given through both Intramuscular and Subcutaneous injections.
+
+Testosterone is administered by Intramuscular injections
+
+Estrogens are given through both Intramuscular and Subcutaneous injections.
 {{% /pageinfo %}}
 
 ### Syringes and needle business (size, gauges…) ###
@@ -33,12 +35,14 @@ The **Gauge** is the measurement unit for the **diameter/thickness** of the need
 
 - If you need to inject a lot (like 4mL of Nebido), you might want to choose a smaller gauge (20 to 22G) in order to have the liquid injected faster, even if it means more pain at the injection. A long and slow injection can end up being more painful.
 
-- For small amounts (1ml and less), you may consider a higher gauge (25 to 30). Keep in mind that there is a length-gauge ratio, and if performing IM injection with a longer needle will also mean a small gauge. On the contrary, short needles have a bigger gauge. 
+- For small amounts (1ml and less), you may consider a higher gauge (25 to 30). Keep in mind that there is a length-gauge ratio, and performing IM injection with a longer needle will also mean a small gauge (thicker needle). On the contrary, short needles have a bigger gauge (thinner needles). 
 
 **Small gauge (thick needle) is more appropriate for IM, and high gauge (thin needle) for SC.**
 
 ### Standard U-100 insulin syringe ###
 
-The **Standard U-100 insulin syringe** can be used for small amounts, and can be particularly appreciated. It is suitable for subcutaneous injection as the needle is usually short. Short needle and high gauge (up to 30G) makes for nearly painless injection. **The needle is attached to the syringe,** which has pros and cons: the high gauge means it will take some time to draw the liquid from the vial, but it also means less hassle changing the needle, and less loss of product as **dead space is reduced**. Dead space is the space from which the liquid drawn for the vial accumulates but cannot be injected. If dead space retains a tiny amount of liquid, in the long term of many injections, you might end up losing a few injections. 
+The **Standard U-100 insulin syringe** can be used for small amounts, and can be particularly appreciated. It is suitable for subcutaneous injection as the needle is usually short. Short needle and high gauge (up to 30G) makes for nearly painless injection. **The needle is attached to the syringe,** which has pros and cons: the high gauge means it will take some time to draw the liquid from the vial(depening on the type of oil suspension used in your product), but it also means less hassle changing the needle, and less loss of product as **dead space is reduced**. 
+
+Dead space is the space from which the liquid drawn for the vial accumulates but cannot be injected. If dead space retains a tiny amount of liquid, in the long term of many injections, you might end up losing a few injections. 
 
 ![](https://cranstoun.org/wp-content/uploads/2022/02/Dead-Space_pic.png)

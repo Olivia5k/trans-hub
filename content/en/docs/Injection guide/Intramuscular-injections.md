@@ -16,7 +16,7 @@ An intramuscular injection delivers medication deep into the muscle tissue. Bein
 IM are given at a **90° angle** - that is, straight through the skin and fat layer, into the muscle.
 Needles are typically **20-23G, and 1-1.5 inch long**. Take into consideration the layer of fat - if you are a bigger person, and depending on the site of injection, you might need to take a slightly longer needle.
 
-FIND IMAGE
+![](https://static.vecteezy.com/system/resources/previews/000/433/484/original/human-skin-intramuscular-injection-vector.jpg)
 
 ### 1 - SETTING UP ###
 
@@ -43,6 +43,7 @@ FIND IMAGE
 
 ### 3 - SELECT INJECTION SITE ###
 
+![](https://cdn.ps.emap.com/wp-content/uploads/sites/3/2018/07/Fig-1-Sites-for-intramuscular-injection_660.jpg)
 
 ### 4 - GIVE THE INJECTION ###
 
@@ -56,6 +57,7 @@ FIND IMAGE
 ### TIPS TO REDUCE PAIN ###
 
 - Never reuse needles
+- Wait for the alcoolic solution you used to clean the injection spot to dry completely.
 - Using a drawing needle and an injection needle keep the second one perfectly sharp for injection, and can reduce pain.
 - Inject medicine at room temperature
 - Don’t hesitate when pushing the needle through the skin: be firm, steady and quick.

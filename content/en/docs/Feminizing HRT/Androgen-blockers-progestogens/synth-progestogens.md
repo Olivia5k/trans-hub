@@ -5,13 +5,13 @@ linkTitle: "Synthetic progestogens (Androcur...)"
 date: 2017-01-05
 weight: 5
 description: >
-  About synthetic progestogens (among which Androcur or cyproteron acetate) as used as androgen blockers
+  About synthetic progestogens (among which Androcur or cyproterone acetate) as used as androgen blockers
 ---
 
 {{% pageinfo %}}
 - This sections concerns progestogens in general and **synthetic progestogens**, as used as androgen blockers. 
 - For information on bioidentical **progesterone**, refer to the dedicated page.
-- **Androcur**, the main synthetic progestogen used in feminzing HRT, is **strongly unadvised**, and should be avoided if possible.
+- **Androcur** (cyproterone aceate), the main synthetic progestogen used in feminzing HRT, is **strongly unadvised** by most trans organizations (but not the WPATH), and should be avoided if possible.
 {{% /pageinfo %}}
 
 Progestogens is the third group of sex hormones after androgen and estrogens. We will differentiate here between “natural” (bioidentical) progestogens (progesterone is the main one) and synthetic progestogens, developed by the pharmaceutical industry for different purposes (namely contraceptive medications, and anti-androgen medications). 
@@ -48,10 +48,10 @@ This is true of bioidentical progesterone and synthetic progestogens. The differ
 
 {{< alert color="warning" title="Warning" >}}⛔ Unadvised : Risks of meningiomas, prolactinenia, liver failure, depression...{{< /alert >}}
 
-The most potent and widely prescribed synthetic progestogen is **Cyproterone Acetate**, sold under the name of **Androcur**.
+The most potent and widely prescribed synthetic progestogen is **Cyproterone Acetate**, sold under the name of **Androcur**. The use of Androcur is banned in the US because of its risks of liver failure, in favor of Spironolactone. In the UK, GnRHa are largely prefered. Androcur remains the most prescribed anti-androgen medication in Europe.
 
 Androcur accumulates the **strong anti-androgenic effect through negative feedback**, with a **small androgen receptor antagonist**, plus all **progesteronic effects** - especially those of synthetic progestogens. 
-It carries a load of **dangerous side effects**, namely **prolactinemia** (possibly leading to bone problems) and **meningiomas** (tumor of the meninges). 
+It carries a load of **adverse side effects**, namely **prolactinemia** (possibly leading to bone problems) and **meningiomas** (tumor of the meninges). 
 In some countries, like France, a doctor cannot prescribe Androcur without written consent of the patient, and regular MRI scans.
 
 It is also associated with **liver failure**, and **depression**.
@@ -60,7 +60,7 @@ If you cannot access another medication, you should try to limit the doses as mu
 
 |Products in Sweden|Dose|Blood values to monitor|
 |--------|----------|-----------|
-|Blood values to monitor|6 to 10mg/day|Testosterone, LH/FSH, ALAT, ASAT, GGT, Prolactine, B12 Vitamin|
+|Androcur|6 to 10mg/day|Testosterone, LH/FSH, ALAT, ASAT, GGT, Prolactine, B12 Vitamin|
 
 **Pros:**
 - Very efficient anti-androgen

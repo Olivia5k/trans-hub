@@ -34,10 +34,10 @@ The only reason to consider finasteride/dutasteride is if you managed to signifi
 Conceived for cis-men preoccupations: to reduce the levels of DHT (and hair loss associated) while keeping high levels of testosterone.
 
 If you do not have abnormally high levels of DHT despite reducing your testosterone, taking finasteride is only taking unnecessary risks, without any benefits!
-	
-Products in Sweden: Finasteride, Propecia, Prosterid
-Dose: 0.25 to 2mg a day
-Blood values to monitor: Testosterone, ALAT, ASAT, GGT
+
+|Products name in Sweden|Dose|Blood values to monitor|
+|----------------|--------|---------------|	
+|Finasteride, Propecia, Prosterid|0.25 to 2mg a day|Testosterone, ALAT, ASAT, GGT|
 
 Finasteride is at the origin of the healthcare scandal called “Post-Finasteride Syndrome”. This “syndrome” is a set of effects such as anxiety, depression, suicidal ideation, neurological diseases and loss of libido. If this syndrome strikes a minority of finasteride users, they can be permanent, and persists after stopping the treatment.
 
@@ -48,9 +48,9 @@ Finasteride is at the origin of the healthcare scandal called “Post-Finasterid
 
 All what we said of finasteride is true of Dutasteride. The only difference is that dutasteride is able to prevent even more efficiently the conversion of testosterone into DHT.
 
-Products in Sweden: Dutasteride, Avodard
-Dose: 0.5mg a day
-Blood values to monitor: Testosterone, ALAT, ASAT, GGT
+|Products name in Sweden|Dose|Blood values to monitor|
+|----------------|--------|---------------|
+|Dutasteride, Avodard|0.5mg a day|Testosterone, ALAT, ASAT, GGT|
 
 
 

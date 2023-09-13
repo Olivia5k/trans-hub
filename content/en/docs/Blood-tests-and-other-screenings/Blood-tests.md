@@ -5,10 +5,15 @@ linkTitle: "Blood tests"
 weight: 2
 date: 2023-01-05
 description: >
-  Why, when and what blood test should I run when talking HRT?
+  Why, when and what blood test should I run when taking HRT?
 ---
 
+{{< alert title="Note" >}} When reading blood test results, always pay attention to the measurement units. According to countries and lab, the prefered unit can change.
+- Estradiol is usually expressed in pg/ml or pmol/L (the transfem target level of 200pg/ml equates 734.25 pmol/L)
+- Testosterone is usually expressed in ng/ml or nmol/L (the transfem target level of 0.50 ng/ml equates 1,73nmol/L)
 
+You can refer to this [converter](https://transfemscience.org/misc/hormone-conc-unit-conv/) if need be.
+{{< /alert >}}	
 
 ### Why? ###
 
@@ -62,5 +67,5 @@ Refer to our description of each medication to know which values are particularl
 ### Total, free, and bioavailable testosterone ###
 
 Note that when measuring testosterone, the standard measurement is usually **total testosterone**, as it is easier and cheaper to measure. As explained in the section on SHBG, testosterone binds itself to albumin and SHBG, which makes it unable to bind to the androgen receptors, and blocks its effect. The rest - a tiny portion of around 1-2% - is “free” and biologically active. You can ask for measuring the **“bioavailable” testosterone**, which is the addition of the free testosterone and the albumin bound testosterone, since the binding with albumin is loose enough that testosterone can easily unbind and become biologically active. However, especially for transfeminine people, **the total testosterone value is usually a good indicator of the efficacy of your treatment**, and a total testosterone under 50 ng/dl corresponds to nearly nothing in bioavailable testosterone.
-You can also ask to measure your SHBG levels, especially if your treatment gives you good levels of sex hormones, but still no effects after a while. Abnormally high SHBG levels could be a cause.
+You can also ask to measure your SHBG levels, especially if your treatment gives you good levels of sex hormones, but still no effects after a while. Abnormally high SHBG levels could be a cause. You can refer to our page on SHBG for more details.
         

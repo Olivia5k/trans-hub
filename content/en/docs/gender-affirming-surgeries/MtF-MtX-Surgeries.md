@@ -62,7 +62,7 @@ This technique is considered safest by many practictionners since it does not in
 However, it also comes with higer risks of stenosis (atrophy and closing off of the vagina), which - in order to be prevented - necessitates life-long regular dilations of the vagina. Many surgeons insists that the final result of the surgery is 50% in the operation, and 50% in life-long post-operative care. 
 It also comes with poor or inexistant self-lubrification. Using lubricant during penetrative sex is always necessary.
 
-- **Non-penile inversion**
+- **Non-inversion**
 
 This techique is used by a few surgeons mostly in Thailand. It is similar the the penile skin inversion in the extent that it does not involve abdominal surgery, but only reuses genital tissues. The difference is that the vaginal lining is created with scotal skin (with addition of groin skin if needed), and the labias and clitoris hood with penile skin.
 The surgeons using this technique claim that it offers greater vaginal depth, better appearance, and improved sensations in the inner labias.
@@ -73,9 +73,10 @@ The risk of stenosis, and the necessary dilation routine are the same as in a pe
 Colovaginplasty is a technique using a piece of the sigmoid colon to line the neovagina. The sigmoid colon is the lower, s-shaped part of the big intestestine, right before it become the rectum. Some surgeons use a piece of the the right colon instead, claiming less risks and better recovery.
 The piece of colon ususally comes as a complement to penile inversion: the entry of the vagina is made with reversed penile skin, and the depth is created with the colon. The piece of colon used is not completely detached from the intestine before being used for lining the neovagina. It is only a flap, that is pulled and attached, so that it remains fully vascularized. 
 
-This option is offered by some surgeons in case of lack of penile and scrotal skin tissue, preventing a classic penile-inversion technique (after orchiectomy with scrotal skin removal, or small penis), or as a corrective surgery after a penile-inversion that did not turn good. Some surgeons, however, start to propose the technique as a first intervention to people with enough penile skin, as they estimates that the risks are covered by benefits.
+This option is offered by some surgeons in case of lack of penile and scrotal skin tissue, preventing a classic penile-inversion technique (after orchiectomy with scrotal skin removal, or small penis), or as a corrective surgery after a penile-inversion that did not turn good. Some surgeons, however, start to propose the technique as a first intervention to people with enough penile skin, as they estimates that the risks are covered by benefits. **This risk-benefit ratio remains yours to determine, according to your expectations, lifestyle, and general health condition.**
 
-It is indeed usually considered more risky, since it involves abdominal surgery. Those risks are lowered if laparoscopy (minimally invasive surgery) is used instead of open surgery, and even more if the laparoscopy is robotically assisted. 
+It is indeed usually considered more risky, since it involves abdominal surgery. Those risks are lowered if laparoscopy (minimally invasive surgery) is used instead of open surgery. Most surgeons argue that a robotically assisted laparoscopy does not bring more safety and precision as the colon harvest technique is a simple and straightforward procedure. This does not mean, however, that an abdominal surgery is without complication.
+
 The recovery is a bit more complicated since the colon has to be reconnected after extracting a flap (anastomosis).
 
 The technique is, however, prefered by some people because the colon is a mucous tissue, which offers self-lubrication, elasticity, and less risk of stenosis. Frequent dilations become less important (though still encouraged, escpecaily for the vaginal entrance which is typically made with penile skin).

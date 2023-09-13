@@ -59,8 +59,9 @@ Needles are typically **25-30G and ½-⅝ inch long.**
 ### TIPS TO REDUCE PAIN ###
 
 - Never reuse needles
+- Wait for the alcoolic solution you used to clean the injection spot to dry completely.
 - Using a drawing needle and an injection needle keep the second one perfectly sharp for injection, and can reduce pain.
 - Inject medicine at room temperature
 - Don’t hesitate when pushing the needle through the skin: be firm, steady and quick.
-- Insert the needle straight and avoid movement once inserted (moving back and forth, wiggling…)
+- Avoid movement once inserted (moving back and forth, wiggling…)
 

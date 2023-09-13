@@ -13,11 +13,11 @@ This is a summary of the different antiandrogen medications used in feminizing H
 {{% /pageinfo %}}
 
 
-In order for estrogen to be efficient, the action of **testosterone MUST be blocked**, one way or the other. 
+In order for estrogens to be efficient, the action of **testosterone MUST be blocked**, one way or the other. 
 
-If **monotherapy** does not work for you, the solution lies in **anti-androgens**, or androgen blockers - sometimes only refered to as blockers.
+If **monotherapy** does not work for you, the solution can lie in **anti-androgens**, or androgen blockers - sometimes only refered to as blockers. Blockers actually encompass a great variety of medications, working in differents ways.
 
-Having an orchiectomy or vaginoplasty allows for stopping anti-androgens, but not estrogens. (It is in reallity a bit more complicated, and you can refer to the page on DHEA and intracrinology to know more about this issue.)
+It is usually considered that orchiectomy or vaginoplasty allows for stopping anti-androgens, but not estrogens. It is in reallity a bit more complicated, and you can refer to the page on DHEA and intracrinology to know more about this issue.
 
 ## Summary table of androgen blocking alternatives ##
 
@@ -25,13 +25,13 @@ Having an orchiectomy or vaginoplasty allows for stopping anti-androgens, but no
 |Name|Description|Risks|
 |----|-----------|-----|
 |✅ Monotherapy|High dose estrogen without blockers - uses the negative feedback mechanism of the body|Low increase of thromboembolic events, especially with very high doses.|
-|✅ Bicalutamide|Very efficient testosterone blocker. Blocks the reception of T.|Low|
-|✅ GnRHA|“Puberty blockers”, but can be used by transfem of any age to block the production of T|Low|
-|😐 Spironolactone|Diuretic with an anti-androgen side-effect|Risks of hyperkalemia (excess of potassium, with variable risks)|
+|✅ Bicalutamide|Very efficient androgens blocker. Blocks the reception of androgens.|Low - but monitoring of liver fuction remains important|
+|✅ GnRHA|“Puberty blockers”, but can be used by transfem of any age to block the production of androgens. Usually delivered as injectable, sometimes nasal spray|Low|
+|😐 Spironolactone|Diuretic with an anti-androgen side-effect|Risks of hyperkalemia (excess of potassium, with variable risks), and reduced blood pressure|
 |😐 Progestogens (others than Androcur)|Very commonly prescribed anti-androgens. Work on the same basis as monotherapy, but with more side effects.|Risks of depression, hyperprolactinemia and liver failure|
 |❌ Finasteride|Useful against “male pattern hair loss”, otherwise not very efficient|Risks of depression and neurological problems|
 |❌ Dutasteride|Useful against “male pattern hair loss”, otherwise not very efficient|Risks of depression and neurological problems|
-|❌ Androcur|Synthetic progestogen, officially unadvised by many countries|Risks of depression, meningioma (meninges tumor) and liver failure|
+|❌ Androcur|A very commonly prescribed synthetic progestogen, officially unadvised by many countries|Risks of depression, meningioma (meninges tumor) and liver failure|
 |❌ Flutamide|Obsolete medication (discontinued in Sweden)|High risks of liver failure.|
 
 

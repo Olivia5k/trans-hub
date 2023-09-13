@@ -26,5 +26,4 @@ The same goes for **progestogens**: the main - naturally occurring - one is **pr
 
 
 ```
-This is the final element on the page and there should be no margin below this.
 ```
