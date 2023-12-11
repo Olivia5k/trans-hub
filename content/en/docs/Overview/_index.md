@@ -7,9 +7,8 @@ description: >
 ---
 
 {{% pageinfo %}}
-TransHub is the information and action platform of TFSF, a grass-root, volunteer-run initiative, working with **therapeutic education and harm reduction**, in the framework of medical transitions. 
 
-You are here in the information section, where we provide detailed information on most medical aspects of gender transitions.
+You are here in the documentation section, where we provide detailed ressources and information on most medical aspects of gender transitions.
 
 All information is sourced from **scientific literature**. We write a warning in case an info is only experimental or hypothetical.
 
