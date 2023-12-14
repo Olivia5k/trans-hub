@@ -41,3 +41,17 @@ However, it makes the case for **continuation of androgen receptor blockers**, n
 This also suggests the superiority of bicalutamide (and receptor blockers in general, but you might want to avoid spironolactone for other reasons) as an androgen blocker before surgery, since it is the only one who's able to block the masculinizing consequences of the adrenal activity.
 
 {{< alert color="warning" title="Warning" >}}**Note that you should not try to block the adrenal activity itself and reduce the production of DHEA, since DHEA is used in many other steroid conversions that are essential.**{{< /alert >}}
+
+### Sources ###
+
+[Intracrinology](https://www.sciencedirect.com/science/article/abs/pii/030372079190116A?via%3Dihub)
+
+[Is dehydroepiandrosterone a hormone?](https://joe.bioscientifica.com/view/journals/joe/187/2/1870169.xml)
+
+[Intracrinology and The Skin](https://karger.com/hrp/article-abstract/54/5-6/218/371814/Intracrinology-and-The-Skin?redirectedFrom=fulltext)
+
+[DHEA, important source of sex steroids in men and even more in women](https://pubmed.ncbi.nlm.nih.gov/20541662/)
+
+[DHEA and its transformation into androgens and estrogens in peripheral target tissues: intracrinology](https://pubmed.ncbi.nlm.nih.gov/11456468/)
+
+[Maximum androgen blockade in advanced prostate cancer: an overview of the randomised trials](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)02163-2/fulltext)

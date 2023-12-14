@@ -21,3 +21,11 @@ This can be particularly interesting to know for transfem people using estrogens
 - If your levels of estrogens are good, and you testosterone low enough, but you are not experiencing any (or very little) changes after 6 months of HRT, it might be relevant to measure your levels of SHBG, as some people are born with or develop higher than average levels of SHBG. Do not assume, however, that this is the only explanation for your lack of reactivity to HRT; it is one possible reason among others, and the only way to know is to have your SHBG measured.
 
 - **Theoretically**, significantly increasing the dosage of estrogen can be quite useless, if not lead to counter effects, since it might trigger an increase of SHBG, and hence diminishing the levels of bioavailable estrogens. **However, this is only how it would work on paper. In reallity, it seems that it would be quasi-impossible (in the frame of trans HRT) to raise your estrogens levels to the point where SHBG levels gets too high and effectively start blocking the feminizing effects of estrogens. You should not worry too much about this issue when going for high-dose estrogens therapy.**
+
+{{% alert title="To go further - Sources" %}}
+To read more about it, Transfemscience has a comprehensive [article](https://transfemscience.org/articles/shbg-unimportant/) - with numerous sources -  on the interactions of sex sormones with SHBG and relevance for transfeminine hormone therapy. It drwas the conclusion that : 
+
+"*Aside from decreasing free estradiol fractions, increased SHBG levels also decrease free testosterone fractions to an even greater extent. This is advantageous in the case of transfeminine people.*
+
+*Taken together, lower free estradiol due to increased SHBG levels, whether with non-oral or oral estradiol, isn’t something that should be a major source of concern in transfeminine hormone therapy.*"
+{{% /alert %}}

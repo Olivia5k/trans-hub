@@ -28,7 +28,12 @@ Such lifestyle includes:
 - Low sugar intake
 
 
+### Sources ###
 
+[Growth Hormone-Releasing Hormone: Clinical Studies and Therapeutic Aspects](https://karger.com/nen/article-abstract/53/Suppl.%201/37/223657/Growth-Hormone-Releasing-Hormone-Clinical-Studies?redirectedFrom=fulltext)
 
-```
-```
+[Arginine Stimulates Growth Hormone Secretion by Suppressing Endogenous Somatostatin Secretion Get access Arrow](https://academic.oup.com/jcem/article-abstract/67/6/1186/2651904?redirectedFrom=fulltext&login=false)
+
+[Reciprocal interactions between the GH axis and sleep](https://www.sciencedirect.com/science/article/abs/pii/S109663740400036X?via%3Dihub)
+
+[Human growth hormone response to repeated bouts of aerobic exercise](https://journals.physiology.org/doi/full/10.1152/jappl.1997.83.5.1756)

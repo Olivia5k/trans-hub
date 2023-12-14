@@ -70,14 +70,17 @@ Some trans women using it report increased fragility of the penile skin, with sk
 
 It remains, however, a possible method to use in order to achieve higher levels of estradiol with limited gel supply.
 
-**Sources:**
+### Sources ###
 
-Clin Pharmacol. 2010; 2: 149–153 :
-« Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites. »
+[Testosterone replacement in male hypogonadism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#)
 
-J Clin Endocrinol Metab. 1996 May;81(5):1832-40 : 
-« the relative permeability at other application sites was greatest for the scrotum (42.0), increased for the back (1.7), reduced for the lateral ankle (0.42), and lowest for the sole of the foot (0.14). »
+*« Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites. »*
 
-Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). [Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.] Revista Argentina de, 70(4), 231 :
+
+[Pharmacokinetics and metabolism of a permeation-enhanced testosterone transdermal system in hypogonadal men: influence of application site- -a clinical research center study](https://pubmed.ncbi.nlm.nih.gov/8626843/)
+
+*« the relative permeability at other application sites was greatest for the scrotum (42.0), increased for the back (1.7), reduced for the lateral ankle (0.42), and lowest for the sole of the foot (0.14). »*
+
+[Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.](https://www.revistasau.org/index.php/revista/article/view/3224/3168)
 
 
