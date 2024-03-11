@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Trans Hub"
+title = "TransHub"
 
 # Language settings
 contentDir = "content/en"
@@ -60,7 +60,7 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "Trans Hub"
+title = "TransHub"
 description = "An initiative in transgender harm reduction"
 languageName ="English"
 # Weight used for sorting.

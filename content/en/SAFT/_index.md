@@ -14,6 +14,8 @@ menu:
 
 {{% blocks/lead color="primary" %}}
 
+<img src="Icon 256_2.png">
+
 Transhub is a grass-root, volunteer-run organization, working with **therapeutic education** and **harm reduction**, in the framework of medical transitions. 
 
 Our aim is to inform the trans community of their healthcare alternatives, following the therapeutic education idea that people need to **reappropriate the means of their healthcare.** 
@@ -55,6 +57,7 @@ The main project for our future is to operate a **solidarity fund** for transgen
 {{% blocks/lead color="primary" %}}
 
 # **Please come back and stay updated to follow the developpement of the SAFT!** #
+<img src="Icon 256_2.png">
 
 {{% /blocks/lead %}}
 
