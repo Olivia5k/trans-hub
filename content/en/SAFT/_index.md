@@ -10,6 +10,10 @@ menu:
 
 # **SAFT - Social Action Fund för Transpersoner** #
 
+<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/become_member" >}}">
+		Become a member now! <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+	</a>
+
 {{% /blocks/lead %}}
 
 {{% blocks/lead color="primary" %}}
@@ -18,17 +22,13 @@ menu:
 
 Transhub is a grass-root, volunteer-run organization, working with **therapeutic education** and **harm reduction**, in the framework of medical transitions. 
 
-Our aim is to inform the trans community of their healthcare alternatives, following the therapeutic education idea that people need to **reappropriate the means of their healthcare.** 
-
-We believe that precise and well-sourced knowledge on all possible treatments is key to **seize back the means of our medical transition, and to reduce harm.**
-
 Our main and first campaign consists in a ressources and information repository for medical transitions, which you will find in the _Documentation_ tab.
 
 However, we also work on **expending the notion of "harm reduction" beyond the stricly medical sphere** of our trans lives. 
 
-## Structurally, **being trans also means being exposed a number of social risks**, and TFSF is working to take these into consideration in its harm reduction framework. ##
+## Structurally, **being trans also means being exposed a number of social risks**, and TransHub is working to take these into consideration in its harm reduction framework. ##
 
-The main project for our future is to operate a **solidarity fund** for transgender people in Sweden.
+The **SAFT** - a solidarity fund for transgender people in Sweden - is here to answer this need.
 
 
 {{% /blocks/lead %}}
@@ -61,3 +61,6 @@ The main project for our future is to operate a **solidarity fund** for transgen
 
 {{% /blocks/lead %}}
 
+{{% blocks/lead color="secondary" %}}
+**We use the term Trans in its broadest sense, as an umbrella term encompassing transsexual, transgender, genderqueer, non binary, gender non conforming, intersex and, more generally, any person whose gender identity or gender expression is non-conforming and/or different from the sex assigned at birth.*
+{{% /blocks/lead %}}
