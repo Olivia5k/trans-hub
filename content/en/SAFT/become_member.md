@@ -1,6 +1,9 @@
 
 ---
 title: "Become a member"
+menu:
+  main:
+    weight: 40
 
 ---
 
