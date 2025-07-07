@@ -56,7 +56,7 @@ The **SAFT** - a solidarity fund for transgender people in Sweden - is here to a
 
 {{% blocks/lead color="primary" %}}
 
-# **Please come back and stay updated to follow the developpement of the SAFT!** #
+# **Please come back and stay updated to follow the development of the SAFT!** #
 <img src="Icon 256_2.png">
 
 {{% /blocks/lead %}}
