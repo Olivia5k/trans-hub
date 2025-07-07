@@ -14,6 +14,7 @@ tasks:
     vars:
       DIRECTORY: /nest/srv/trans-hub
     cmds:
+      - hugo mod vendor
       - hugo --buildFuture --destination {{.DIRECTORY}}
 
   ci:publish:
