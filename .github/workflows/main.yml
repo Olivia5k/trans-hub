@@ -16,4 +16,4 @@ jobs:
         key: ${{ secrets.KEY }}
         # password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: cd ~/trans-hub && task ci:publish
+        script: cd ~/trans-hub && /home/uwu/go/bin/task ci:publish
