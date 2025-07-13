@@ -8,7 +8,7 @@ menu:
 
 {{% blocks/lead color="dark" %}}
 
-# **SAFT - Social Action Fund för Transpersoner** #
+# **SAFT - Solidarity and Action Fund for Transpeople** #
 
 <a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/become_member" >}}">
 		Become a member now! <i class="fas fa-arrow-alt-circle-right ml-2"></i>
