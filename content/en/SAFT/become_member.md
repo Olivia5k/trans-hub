@@ -41,11 +41,9 @@ As by the rules of non-profit organization, **membership is open to all**. Howev
 
 **Monthly membership fees**
 
-<script src='https://actionnetwork.org/widgets/v5/fundraising/saft-social-action-fund-for-transpeople?format=js&source=widget'></script><div id='can-fundraising-area-saft-social-action-fund-for-transpeople' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
-
-
-
 <img src="/Icon 256_2.png" alt="Icon 256_2.png" />
+
+<script src='https://actionnetwork.org/widgets/v5/fundraising/saft-social-action-fund-for-transpeople?format=js&source=widget'></script><div id='can-fundraising-area-saft-social-action-fund-for-transpeople' style='width: 600px'><!-- this div is the target for our HTML insertion --></div>
 
 
 
