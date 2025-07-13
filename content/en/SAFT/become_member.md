@@ -53,6 +53,6 @@ As by the rules of non-profit organization, **membership is open to all**. Howev
 {{% /blocks/lead %}}
 
 {{% blocks/lead color="secondary" %}}
-**We use the term Trans in its broadest sense, as an umbrella term encompassing transsexual, transgender, genderqueer, non binary, gender non conforming, intersex and, more generally, any person whose gender identity or gender expression is non-conforming and/or different from the sex assigned at birth.*
+**We use the term Trans in its broadest sense, as an umbrella term encompassing transsexual, transgender, genderqueer, non binary, gender non conforming, intersex and, more generally, any person whose gender identity or gender expression is non-conforming and/or different from the sex assigned at birth.**
 
 {{% /blocks/lead %}}
