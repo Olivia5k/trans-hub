@@ -41,7 +41,7 @@ As by the rules of non-profit organization, **membership is open to all**. Howev
 
 **Monthly membership fees**
 
-TransHub is still young, and we cannot take membership and donations yet. As soon as we have this set up, we'll let you know how you can become a member!
+<script src='https://actionnetwork.org/widgets/v5/fundraising/saft-social-action-fund-for-transpeople?format=js&source=widget'></script><div id='can-fundraising-area-saft-social-action-fund-for-transpeople' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 
 
 
