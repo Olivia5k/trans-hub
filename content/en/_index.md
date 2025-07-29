@@ -16,7 +16,7 @@ linkTitle = "Transhub"
 
 <img src="Icon 256.png">
 
-<p class="lead mt-5">A grassroots transgender harm reduction project, and Sweden's first social union for transpeople</p>
+<p class="lead mt-5">**A grassroots transgender harm reduction project, and Sweden's first social union for transpeople**</p>
 {{< blocks/link-down color="info" >}}
 
 {{< /blocks/cover >}}
