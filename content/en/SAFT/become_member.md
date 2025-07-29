@@ -77,11 +77,7 @@ Fill in the <a href="https://cryptpad.fr/form/#/2/form/view/8rbWLkFmnWschlgh0pxp
 
 <img src="/Icon 256_2.png" alt="Icon 256_2.png" />
 
-<script src='https://actionnetwork.org/widgets/v5/fundraising/saft-social-action-fund-for-transpeople?format=js&source=widget'></script><div id='can-fundraising-area-saft-social-action-fund-for-transpeople' style='width: 600px';'text-align: center'><!-- this div is the target for our HTML insertion --></div>
-
-
-
-
+<script src='https://actionnetwork.org/widgets/v5/fundraising/saft-social-action-fund-for-transpeople?format=js&source=widget'></script><div id='can-fundraising-area-saft-social-action-fund-for-transpeople' style='width: 600px; text-align: center'><!-- this div is the target for our HTML insertion --></div>
 
 
 {{% /blocks/lead %}}
